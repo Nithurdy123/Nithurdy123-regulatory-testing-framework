@@ -17,3 +17,11 @@ This project shows how to set up a simple **regulatory testing framework** to au
 - Demonstrate understanding of risk testing and attention to detail.
 - Starter project for beginners interested in risk & quantitative engineering roles.
 
+- ## 🧑‍💻 How to Run
+
+1. **Clone the repository**  
+```bash
+git clone https://github.com/YOUR_USERNAME/regulatory-testing-framework.git
+cd regulatory-testing-framework
+
+
